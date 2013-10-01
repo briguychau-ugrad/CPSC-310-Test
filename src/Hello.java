@@ -9,6 +9,7 @@ public class Hello {
 		System.out.println("Hello, world!");
 		System.out.println("I hate git");
 		System.out.println("Git doesn't work well.");
+		System.out.println(Integer.toString(a));
 
 	}
 }
