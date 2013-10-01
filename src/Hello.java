@@ -10,6 +10,7 @@ public class Hello {
 		System.out.println("I hate git");
 		System.out.println("Git doesn't work well.");
 		System.out.println(Integer.toString(a));
+		System.out.println("Why are the instructions so bad");
 
 	}
 }
